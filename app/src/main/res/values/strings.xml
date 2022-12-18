@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Combinatorics Calculator</string>
+    <string name="combinations_name">Combinations</string>
+    <string name="permutations_name">Permutations</string>
+    <string name="arrangement_name">Arrangement</string>
+    <string name="button_calculate">Count result</string>
+    <string name="with_repetitions">With repetitions</string>
+    <string name="input_n_hint">Input N</string>
+    <string name="input_k_hint">Input K</string>
+    <string name="result">Result: %1$s</string>
+    <string name="error">There\'s some errors in inputs</string>
+</resources>

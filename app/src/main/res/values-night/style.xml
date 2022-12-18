@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="button">
+        <item name="android:textAllCaps">false</item>
+        <item name="backgroundTint">@color/white</item>
+        <item name="android:text">@string/button_calculate</item>
+    </style>
+    <style name="result">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">32sp</item>
+    </style>
+</resources>

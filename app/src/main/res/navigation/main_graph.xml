@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main_graph"
+    app:startDestination="@id/arrangementFragment">
+
+    <fragment
+        android:id="@+id/arrangementFragment"
+        android:name="com.itis.combinatoricscalculator.fragments.ArrangementFragment"
+        android:label="Arrangement" />
+    <fragment
+        android:id="@+id/combinationsFragment"
+        android:name="com.itis.combinatoricscalculator.fragments.CombinationsFragment"
+        android:label="Combinations" />
+    <fragment
+        android:id="@+id/permutationsFragment"
+        android:name="com.itis.combinatoricscalculator.fragments.PermutationsFragment"
+        android:label="Permutations" />
+</navigation>

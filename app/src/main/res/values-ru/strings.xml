@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="combinations_name">Сочетания</string>
+    <string name="permutations_name">Перестановки</string>
+    <string name="arrangement_name">Размещения</string>
+    <string name="button_calculate">Посчитать результат</string>
+    <string name="with_repetitions">С повторениями</string>
+    <string name="input_n_hint">Введите N</string>
+    <string name="result">Результат: %1$s</string>
+    <string name="error">Найдены ошибки где-то во входных данных</string>
+    <string name="app_name">Комбинаторный калькулятор</string>
+    <string name="input_k_hint">Введите K</string>
+</resources>

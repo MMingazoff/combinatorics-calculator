@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/combinationsFragment"
+        android:icon="@drawable/ic_combinations"
+        android:title="@string/combinations_name" />
+
+    <item
+        android:id="@+id/arrangementFragment"
+        android:icon="@drawable/ic_arrangement"
+        android:title="@string/arrangement_name" />
+
+    <item
+        android:id="@+id/permutationsFragment"
+        android:icon="@drawable/ic_permutations"
+        android:title="@string/permutations_name" />
+
+</menu>
